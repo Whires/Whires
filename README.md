@@ -1,6 +1,6 @@
 - Hi, I’m @Whires
 - I am interested in Rust, C++, web development and software engineering in Java!
-- Currently learning Java (Spring), C++, Rust.
+- Currently learning Java (Spring), C++, Rust, and the "holy" trio of frontend ( HTML, CSS, JS (React) )
 - How to reach me: via instagram: @whiresqt
 - Fun fact: I love coding, but I don't want to make a career out of it...
 
